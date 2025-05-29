@@ -31,8 +31,12 @@ A modern and responsive **Task Management System** built using the **MERN Stack 
 ## 📸 Screenshots
 
 
-> Add a few screenshots of your app here to showcase the UI.
-![Dashboard](./frontend/public/all-task.png)
+
+![Dashboard](./screenshots/all-task.png)
+![Create Task](./screenshots/create-task.png)
+![View Task](./screenshots/veiw-task.png)
+![Light Mode](./screenshots/light-theme.png)
+
 ---
 
 ## 🛠️ Installation & Setup
@@ -40,6 +44,6 @@ A modern and responsive **Task Management System** built using the **MERN Stack 
 ### Backend (Express + MongoDB)
 
 ```bash
-cd server
+cd backend
 npm install
 npm start
