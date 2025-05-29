@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="w-full ">
       <div className="border-t p-4">
         <h4 className=" text-center text-xl font-semibold ">
-          Conde with 💗 & Shashvat!
+          Code with 💗 & Shashvat!
         </h4>
       </div>
     </div>
