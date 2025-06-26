@@ -6,31 +6,29 @@ A modern and responsive **Task Management System** built using the **MERN Stack 
 
 ## 🚀 Tech Stack
 
-| Technology      | Description                             |
-|-----------------|-----------------------------------------|
-| MongoDB         | NoSQL database for storing task data    |
-| Express.js      | Backend framework for APIs              |
-| React.js        | Frontend framework                      |
-| Node.js         | Backend runtime                         |
-| Tailwind CSS    | Utility-first CSS framework             |
-| ShadCN UI       | Modern, accessible React UI components  |
+| Technology   | Description                            |
+| ------------ | -------------------------------------- |
+| MongoDB      | NoSQL database for storing task data   |
+| Express.js   | Backend framework for APIs             |
+| React.js     | Frontend framework                     |
+| Node.js      | Backend runtime                        |
+| Tailwind CSS | Utility-first CSS framework            |
+| ShadCN UI    | Modern, accessible React UI components |
 
 ---
 
 ## 🎯 Features
 
-- ✅ Create, update, and delete tasks  
-- 📅 Set deadlines and priorities  
-- 🏷️ Categorize tasks with tags  
-- 🔔 Status indicators (Pending, In Progress, Completed)  
+- ✅ Create, update, and delete tasks
+- 📅 Set deadlines and priorities
+- 🏷️ Categorize tasks with tags
+- 🔔 Status indicators (Pending, In Progress, Completed)
 - 💡 Responsive and clean UI with Tailwind + ShadCN
 - 🌙 Light/Dark Mode toggle (optional with ShadCN)
 
 ---
 
 ## 📸 Screenshots
-
-
 
 ![Dashboard](./screenshots/all-task.png)
 ![Create Task](./screenshots/create-task.png)
@@ -49,4 +47,5 @@ npm install
 npm start
 
 
-add Collaborators
+add Collaborators anurag
+```
