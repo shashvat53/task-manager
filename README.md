@@ -47,5 +47,5 @@ npm install
 npm start
 
 
-add Collaborators anurag
+add Collaborators anurag pune
 ```
